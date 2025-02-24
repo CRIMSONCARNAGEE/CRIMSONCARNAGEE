@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Men hozirda **HTML,CSS,JAVA SCRIPT,SASS** ni o'rganyapman
+- 🌱 Men hozirda **HTML,CSS,Java Script,Sass** ni o'rganyapman
 
 - 📫 Email:**azizbekurazboyev203@gmail.com**
 
