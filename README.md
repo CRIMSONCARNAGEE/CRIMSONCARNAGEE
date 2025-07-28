@@ -1,6 +1,6 @@
 # 🖐🏼Hi, I'm Azizbek
 # 💫 About Me:
-🔭 I’m currently working on building a personal portfolio website using Javascript and React.js.<br>🌱 I’m currently learning JS and ReactJS<br>💬 Ask me about:<br>What is your name and what do you do?<br>What technologies do you specialize in or enjoy working with?<br>What is the main purpose of your GitHub profile or project?<br>⚡ Fun fact:The very first computer programmer was Ada Lovelace in the 19th century — she wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer, the Analytical Engine, long before modern computers existed!
+🔭 I’m currently working on building a personal portfolio website using Javascript and React.js.<br>🌱 I’m currently learning JS, NodeJS and ReactJS<br>💬 Ask me about:<br>What is your name and what do you do?<br>What technologies do you specialize in or enjoy working with?<br>What is the main purpose of your GitHub profile or project?<br>⚡ Fun fact:The very first computer programmer was Ada Lovelace in the 19th century — she wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer, the Analytical Engine, long before modern computers existed!
 
 
 ## 🌐 Socials:
